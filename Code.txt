@@ -1,1 +1,2 @@
-This is new code that is to be merged
+This is new Code that is to be merged.
+I'll make some changes here.
